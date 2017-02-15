@@ -9,6 +9,8 @@
 
 [点击下方视频查看课程介绍：](https://v.qq.com/x/page/o03622lip01.html)
 
+![](http://upload-images.jianshu.io/upload_images/1668324-83bb5fd76a14e86c.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 <embed src="https://imgcache.qq.com/tencentvideo_v1/playerv3/TPout.swf?max_age=86400&v=20161117&vid=o03622lip01&auto=0" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
 
 ## 课程简介

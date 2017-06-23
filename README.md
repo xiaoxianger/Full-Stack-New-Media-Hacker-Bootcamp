@@ -12,8 +12,9 @@
 
 ## 了解更多
 
-- 课程项目概览
-- 课程服务概览
-- 课程证书概览
+- [课程项目概览](https://github.com/BPteach/Full-Stack-New-Media-Hacker-Bootcamp/blob/master/Project-Overview.md)
+- [课程服务概览](https://github.com/BPteach/Full-Stack-New-Media-Hacker-Bootcamp/blob/master/Service-Overview.md)
+- [课程证书概览](https://github.com/BPteach/Full-Stack-New-Media-Hacker-Bootcamp/blob/master/Certificate-Overview.md)
 
 > 需要更多详细的咨询，可以通过 [工单系统](https://bpteach.kf5.com/hc/request/new/) 与我们联系。
+

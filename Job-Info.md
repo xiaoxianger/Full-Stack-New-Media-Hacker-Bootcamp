@@ -9,7 +9,7 @@
 
 
 
-「博雅天下数字营销」招聘需求](https://github.com/BPteach/Full-Stack-New-Media-Hacker-Bootcamp/blob/master/Job-Info.md#user-content-博雅天下数字营销招聘需求)
+[「博雅天下数字营销」招聘需求](https://github.com/BPteach/Full-Stack-New-Media-Hacker-Bootcamp/blob/master/Job-Info.md#user-content-博雅天下数字营销招聘需求)
 
 - [媒介管理（1名）](https://github.com/BPteach/Full-Stack-New-Media-Hacker-Bootcamp/blob/master/Job-Info.md#user-content-媒介管理1名)
 - [客户主管/AE （2名）](https://github.com/BPteach/Full-Stack-New-Media-Hacker-Bootcamp/blob/master/Job-Info.md#user-content-客户主管ae-2名)

@@ -1,11 +1,65 @@
 # 半撇私塾合作企业招聘需求
 
+- - [「博雅天下数字营销」招聘需求](https://github.com/BPteach/Full-Stack-New-Media-Hacker-Bootcamp/blob/master/Job-Info.md#user-content-博雅天下数字营销招聘需求)
+
+
+- - ​	[媒介管理（1名）](https://github.com/BPteach/Full-Stack-New-Media-Hacker-Bootcamp/blob/master/Job-Info.md#user-content-媒介管理1名)
+
+
+- - - [客户主管/AE （2名）](https://github.com/BPteach/Full-Stack-New-Media-Hacker-Bootcamp/blob/master/Job-Info.md#user-content-客户主管ae-2名)
+
+
+- - - [内容编辑 （1名）](https://github.com/BPteach/Full-Stack-New-Media-Hacker-Bootcamp/blob/master/Job-Info.md#user-content-内容编辑-1名)
+
+
+- - - [实习生／管理培训生 （3-5名）](https://github.com/BPteach/Full-Stack-New-Media-Hacker-Bootcamp/blob/master/Job-Info.md#user-content-实习生管理培训生-3-5名)
+
+
+- - - ​
+
+
+- - [「115科技股份有限公司」招聘需求](https://github.com/BPteach/Full-Stack-New-Media-Hacker-Bootcamp/blob/master/Job-Info.md#user-content-115科技股份有限公司招聘需求)
+
+    ​	[新媒体运营专员（2名）](https://github.com/BPteach/Full-Stack-New-Media-Hacker-Bootcamp/blob/master/Job-Info.md#user-content-新媒体运营专员2名)
+
+
+- - - [内容运营专员（1名）](https://github.com/BPteach/Full-Stack-New-Media-Hacker-Bootcamp/blob/master/Job-Info.md#user-content-内容运营专员1名)
+
+
+- - - [内容编辑专员（1名）](https://github.com/BPteach/Full-Stack-New-Media-Hacker-Bootcamp/blob/master/Job-Info.md#user-content-内容编辑专员1名)
+
+
+- - - [文案编辑（2名）](https://github.com/BPteach/Full-Stack-New-Media-Hacker-Bootcamp/blob/master/Job-Info.md#user-content-文案编辑2名)
+
+
+- - - [媒介公关（2名）](https://github.com/BPteach/Full-Stack-New-Media-Hacker-Bootcamp/blob/master/Job-Info.md#user-content-媒介公关2名)
+
+
+- - - ​
+
+
+- - [Strikingly（上线了）招聘需求](https://github.com/BPteach/Full-Stack-New-Media-Hacker-Bootcamp/blob/master/Job-Info.md#user-content-strikingly上线了招聘需求)
+
+
+- - ​	[视频内容运营](https://github.com/BPteach/Full-Stack-New-Media-Hacker-Bootcamp/blob/master/Job-Info.md#user-content-视频内容运营)
+
+  - ​	[新媒体运营（微信运营岗）](https://github.com/BPteach/Full-Stack-New-Media-Hacker-Bootcamp/blob/master/Job-Info.md#user-content-新媒体运营微信运营岗)
+
+
+- - - [新媒体运营（微博运营岗）](https://github.com/BPteach/Full-Stack-New-Media-Hacker-Bootcamp/blob/master/Job-Info.md#user-content-新媒体运营微博运营岗)
+
+
+- - - [口碑营销](https://github.com/BPteach/Full-Stack-New-Media-Hacker-Bootcamp/blob/master/Job-Info.md#user-content-口碑营销)
+
+
+- - - ​
+
 >  **说明：**
 >
-> 1. 此版块仅面向半撇私塾正式学员；
-> 2. 如果你对以下岗位有兴趣，可通过《求职人才库进行申请》；
-> 3. 如果以下没有你感兴趣的岗位，但你有更换新媒体相关工作的需求，请在《人才库》进行登记，如企业有相关需求，会跟你联系；
-> 4. 此版块不定期更新。
+>  1. 此版块仅面向半撇私塾正式学员；
+>  2. 如果你对以下岗位有兴趣，可通过《求职人才库进行申请》；
+>  3. 如果以下没有你感兴趣的岗位，但你有更换新媒体相关工作的需求，请在《人才库》进行登记，如企业有相关需求，会跟你联系；
+>  4. 此版块不定期更新。
 
 
 
@@ -281,9 +335,9 @@
 
 1.  需要你有专职1年以上的微信公众号运营经验;
 2.  有成功的用户数及活跃度有效推广案例;
-3. 有自己的文笔作风，以及批判性思维;
+3.  有自己的文笔作风，以及批判性思维;
 4.  能够独立策划企业公号运营策略及阶段性目标;
-5. 具备良好的协调与沟通能力，执行力强，责任心强，有自己的目标;
+5.  具备良好的协调与沟通能力，执行力强，责任心强，有自己的目标;
 6.  有一定的活动策划能力，或项目推进能力
 
 ### 新媒体运营（微博运营岗）
@@ -298,7 +352,7 @@
 
 1. 负责官方微博主题设计、内容编辑及日常运营，提升用户数量及活跃度;
 2. 负责官方微博的营销活动策划、执行、评估及改进；开展专题、活动和商业合作;
-3.  通过监测运营数据及反馈跟踪，进行用户需求分析，有针对性的调整、优化运营策略;
+3. 通过监测运营数据及反馈跟踪，进行用户需求分析，有针对性的调整、优化运营策略;
 4. 将品牌调性融合到日常运营中，持续为用户提供消费内容 。
 
 #### 【任职要求】

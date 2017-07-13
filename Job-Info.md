@@ -1,6 +1,15 @@
 # 半撇私塾合作企业招聘需求
 
-[「博雅天下数字营销」招聘需求](https://github.com/BPteach/Full-Stack-New-Media-Hacker-Bootcamp/blob/master/Job-Info.md#user-content-博雅天下数字营销招聘需求)
+**说明：**
+
+> 1. 此版块仅面向半撇私塾正式学员；
+> 2. 如果你对以下岗位有兴趣，可通过填写[《求职｜半撇私塾人才库》](http://bpteachcrm.mikecrm.com/tS2Tchc)申请内推；
+> 3. 如果以下没有你感兴趣的岗位，但你有更换新媒体相关工作的需求，请在[《求职｜半撇私塾人才库》](http://bpteachcrm.mikecrm.com/tS2Tchc)进行登记，如企业有相关需求，会跟你联系；
+> 4. 此版块不定期更新。
+
+
+
+「博雅天下数字营销」招聘需求](https://github.com/BPteach/Full-Stack-New-Media-Hacker-Bootcamp/blob/master/Job-Info.md#user-content-博雅天下数字营销招聘需求)
 
 - [媒介管理（1名）](https://github.com/BPteach/Full-Stack-New-Media-Hacker-Bootcamp/blob/master/Job-Info.md#user-content-媒介管理1名)
 - [客户主管/AE （2名）](https://github.com/BPteach/Full-Stack-New-Media-Hacker-Bootcamp/blob/master/Job-Info.md#user-content-客户主管ae-2名)
@@ -21,17 +30,6 @@
 - [新媒体运营（微信运营岗）](https://github.com/BPteach/Full-Stack-New-Media-Hacker-Bootcamp/blob/master/Job-Info.md#user-content-新媒体运营微信运营岗)
 - [新媒体运营（微博运营岗）](https://github.com/BPteach/Full-Stack-New-Media-Hacker-Bootcamp/blob/master/Job-Info.md#user-content-新媒体运营微博运营岗)
 - [口碑营销](https://github.com/BPteach/Full-Stack-New-Media-Hacker-Bootcamp/blob/master/Job-Info.md#user-content-口碑营销)
-
-［不定期更新］
-
-
-
-**说明：**
-
->  1. 此版块仅面向半撇私塾正式学员；
->  2. 如果你对以下岗位有兴趣，可通过《求职人才库进行申请》；
->  3. 如果以下没有你感兴趣的岗位，但你有更换新媒体相关工作的需求，请在《人才库》进行登记，如企业有相关需求，会跟你联系；
->  4. 此版块不定期更新。
 
 
 
